@@ -1,3 +1,5 @@
+//AUTEURS : Pauline Bernard, Cherine Seo, Edouard Mignien
+
 #include <cairo.h>
 #include <gtk/gtk.h>
 #include <wiringPi.h>
