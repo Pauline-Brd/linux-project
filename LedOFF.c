@@ -1,4 +1,4 @@
-#AUTEURS : Pauline Bernard, Cherine Seo, Edouard Mignien
+//AUTEURS : Pauline Bernard, Cherine Seo, Edouard Mignien
 
 #include <wiringPi.h>
 #include <stdio.h>
