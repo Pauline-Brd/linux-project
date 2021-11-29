@@ -1,3 +1,5 @@
+//AUTEURS : Pauline Bernard, Cherine Seo, Edouard Mignien
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
