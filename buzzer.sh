@@ -1,3 +1,5 @@
+#AUTEURS : Pauline Bernard, Cherine Seo, Edouard Mignien
+
 #!/bin/bash
 if [ ! -d /sys/class/gpio/gpio7 ]
 then
