@@ -1,3 +1,5 @@
+#AUTEURS : Pauline Bernard, Cherine Seo, Edouard Mignien
+
 #!/bin/bash
 ./initAll.sh
 ./danger.sh &
